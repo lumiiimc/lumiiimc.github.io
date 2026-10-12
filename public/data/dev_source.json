@@ -1,0 +1,16 @@
+{
+    "name": "Dev Mash-ups!",
+    "description": "Hai! These mash-ups were made by the devenopers of the project!",
+    "icon": "https://lumiiimc.github.io/data/lumi_source_icon.jpeg",
+    "mash-ups": [
+        {
+            "uuid": "214fecd6-f427-4e59-ae48-f64dd59bac90",
+            "name": "Debug Mash-up",
+            "description": "How did we get here?",
+            "Authors": [ "Developers" ],
+            "icon": "https://lumiiimc.github.io/data/debug_mash-up_icon.jpeg",
+            "thumbnail": "https://lumiiimc.github.io/data/debug_mash-up_thumb.jpeg",
+            "download": "https://lumiiimc.github.io/data/debug_mash-up.zip"
+        }
+    ]
+}
